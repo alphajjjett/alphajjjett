@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on RTAF
-- 🌱 I’m currently learning Python,C,C#
+- 🌱 I’m currently learning Com-Sci
 <!--
 **alphajjjett/alphajjjett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
