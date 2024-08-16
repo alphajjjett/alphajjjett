@@ -1,2 +1,2 @@
 ### Hi there 👋
-Radz plus++++ Ultra
+Radz plus++++ Ultra University.
