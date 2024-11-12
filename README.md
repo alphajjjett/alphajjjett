@@ -1,6 +1,5 @@
 ### Hi there 👋
-Rajabhat Pranakorn University.
-CS54 
+PNRU | CS54 
 
 ![alphajjjett's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphajjjett&show_icons=true&theme=radical)
 
