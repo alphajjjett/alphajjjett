@@ -5,7 +5,14 @@ PNRU | CS54
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-Languages
+SKILL
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,php,py)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+
 
