@@ -7,7 +7,7 @@ PNRU | CS54
 
 SKILL
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
